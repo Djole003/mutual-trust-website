@@ -1,8 +1,7 @@
 <?php include 'header.php'; ?>
-
 <!-- HERO -->
 <section class="hero">
-    <div class="hero-content" data-aos="fade-up">
+    <div class="hero-content hero-layout" data-aos="fade-up">
 
         <h1 class="hero-title">
             Knjigovodstvena agencija <br>
@@ -13,7 +12,7 @@
             Pouzdan partner u finansijama i poslovnom rastu
         </p>
 
-        <a href="contact.php" class="btn-gold">
+        <a href="contact.php" class="btn-gold hero-btn">
             Zatražite konsultaciju
         </a>
 
@@ -216,11 +215,11 @@ Naravno. Komunikacija i razmena dokumentacije mogu se obavljati potpuno online.
 
 <div class="faq-item" data-aos="fade-up" data-aos-delay="400">
 <div class="faq-question">
-Koliko brzo odgovarate na upite?
+Da li vršite registraciju firmi?
 <span>+</span>
 </div>
 <div class="faq-answer">
-Na sve upite odgovaramo u roku od 24 sata.
+Da, pružamo kompletnu uslugu registracije preduzetničke radnje ili DOO firme, uključujući pripremu dokumentacije i registraciju u APR-u.
 </div>
 </div>
 
